@@ -18,6 +18,9 @@ https://trello.com/invite/b/yRkv14iz/4d7adbf851421ca1f3709ab85f36e6ab/proyecto-d
 
 Link Los diseños Mock Ups:
 
+
+
 El tipo de Licencias Creative Commons implementada:
 
-
+Reconocimiento - SinObraDerivada (by-nd): 
+Se permite el uso comercial de la obra pero no la generación de obras derivadas.
