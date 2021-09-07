@@ -18,6 +18,8 @@ https://trello.com/invite/b/yRkv14iz/4d7adbf851421ca1f3709ab85f36e6ab/proyecto-d
 
 Link Los diseños Mock Ups:
 
+https://www.figma.com/file/Bnn3M0OEBgZXGoUKs7v2oB/Freebie---Coworking-Space-Landing-Page-(Community)?node-id=105%3A1653
+
 https://www.figma.com/proto/4rMnU4wmmxzOarth47RTFc/Prototyping-in-Figma?node-id=0%3A90&scaling=scale-down&page-id=0%3A1&starting-point-node-id=0%3A2
 
 El tipo de Licencias Creative Commons implementada:
