@@ -1,6 +1,6 @@
-# ProyectoDSM2021
+# ProyectoDPS Ciclo 02-2021
 
-_Creacion de una apliacion Ecommer para la materia Desarrollo de Sotfware para Moviles de la Universidad Don Bosco, El Salvador_
+_Creación de una aplicación de Gestor de hoteleria para la materia de Diseño y Programación de Software Multiplataforma de la Universidad Don Bosco, El Salvador_
 
 ### Pre-requisitos de instalación 📋
 
@@ -29,11 +29,11 @@ Antes de comenzar, asegurese de tener instaldo:
 
 ## Autores ✒️
 
-* **Gabriela Michelle Álvarez Flores** - **Programación, diseño, lógica y manuales**
-* **Manuel de Jesús Gámez Efigenio** - **Programación, diseño, lógica y manuales**
-* **Braulia Lisbeth Godoy Ramírez** - **Programación, diseño, lógica y manuales**
-* **Gerardo Arturo Jerez Elías** - **Programación, diseño, lógica y manuales**
-* **Benjamín Eleazar Gómez Alfaro** - **Programación, diseño, lógica y manuales**
+* **Nahomi Nicole Guardado Iglesias -> GI191421** - **Programación, diseño, lógica y manuales**
+* **Gabriela Saraí Pacheco Guerrero -> PG180131** - **Programación, diseño, lógica y manuales**
+* **Francisca Abigail García López -> GL180669** - **Programación, diseño, lógica y manuales**
+* **Luis Eduardo Rivera Martínez -> RM132133** - **Programación, diseño, lógica y manuales**
+* **Katherine Milagro Alfaro Rico -> AR191892** - **Programación, diseño, lógica y manuales**
 
 ## Licencia 📄
 
