@@ -22,33 +22,32 @@ Antes de comenzar, asegurese de tener instaldo:
 * Git
 
 1. Seleccionar una carpeta de su equipo local donde clonará y almacenará el repositorio
-2. Una vez seleccionada la carpeta, abra "Git Bash" y ejecute el comando git clone https://github.com/ManuelGamez/ProyectoDSM2021.git Esto le permitirá conectarse de una vez al repositorio.
+2. Una vez seleccionada la carpeta, abra "Git Bash" y ejecute el comando git clone https://github.com/Aby3005/PROYECTO-DPS.git Esto le permitirá conectarse de una vez al repositorio.
 3. Crear una rama de colaboración para poder agregar los cambios realizados a Github.
 4. Una vez este conectado al repositorio y haya creado su rama, puede comenzar a colaborar desde su equipo local, para lo que será necesario abrir el proyecto desde su Android Studio.
 5. Realice las modificaciones necesarias y ejecute los comandos: git add -A para agregar los cambios, git commit -m "comentario" y finalmente git push -u origin SuRama para agregar los cambios al repositorio remoto.
 
 ## Autores ✒️
 
-* **Nahomi Nicole Guardado Iglesias -> GI191421** - **Programación, diseño, lógica y manuales**
-* **Gabriela Saraí Pacheco Guerrero -> PG180131** - **Programación, diseño, lógica y manuales**
-* **Francisca Abigail García López -> GL180669** - **Programación, diseño, lógica y manuales**
-* **Luis Eduardo Rivera Martínez -> RM132133** - **Programación, diseño, lógica y manuales**
-* **Katherine Milagro Alfaro Rico -> AR191892** - **Programación, diseño, lógica y manuales**
+* **Nahomi Nicole Guardado Iglesias -> GI191421** - **GT: 03T** - **Programación, diseño, lógica y manuales**
+* **Gabriela Saraí Pacheco Guerrero -> PG180131** - **GT: 03T** - **Programación, diseño, lógica y manuales**
+* **Francisca Abigail García López -> GL180669** - **GT: 03T** - **Programación, diseño, lógica y manuales**
+* **Luis Eduardo Rivera Martínez -> RM132133** - **GT: 03T** - **Programación, diseño, lógica y manuales**
+* **Katherine Milagro Alfaro Rico -> AR191892** - **GT: 03T** - **Programación, diseño, lógica y manuales**
 
 ## Licencia 📄
 
-Este proyecto está bajo la licencia Atribución-NoComercial-CompartirIgual 4.0 Internacional (CC BY-NC-SA 4.0)
+Este proyecto está bajo la licencia Reconocimiento - SinObraDerivada (by-nd)
 Que establece:
 
 Usted es libre de:
-Compartir — copiar y redistribuir el material en cualquier medio o formato
-Adaptar — remezclar, transformar y construir a partir del material
+Hacer uso comercial de la obra pero no la generación de obras derivadas.
 La licenciante no puede revocar estas libertades en tanto usted siga los términos de la licencia
 
 ## Enlaces de interés 👀
 
-* [Tablero en Trello] https://trello.com/b/foa9Fvci/proyectodsm-01-2021
-* [Manual de usuario en la nube] - https://drive.google.com/file/d/1gSfLuai8QZ9gKfQxb24Y_twbFtsd337H/view?usp=sharing
-* [Manual Técnico en la nube] - https://drive.google.com/file/d/1GotWv8Wd96FceQ3l27J89jNwBLxnNaZv/view?usp=sharing
-* [Video de funcionamiento] - https://drive.google.com/file/d/1mNLpC4644r4PSrrnVCnNPZBlwERsbLxN/view?usp=sharing
-* [Enlace a Mockups] - https://drive.google.com/file/d/1Y8CDEFUA8c7Q_8eq2Rkpz6fN4bxFwjAD/view?usp=sharing
+* [Tablero en Trello] https://trello.com/invite/b/yRkv14iz/4d7adbf851421ca1f3709ab85f36e6ab/proyecto-dps
+* [Manual de usuario en la nube] - 
+* [Manual Técnico en la nube] - 
+* [Video de funcionamiento] - 
+* [Enlace a Mockups] - https://www.figma.com/file/Bnn3M0OEBgZXGoUKs7v2oB/Freebie---Coworking-Space-Landing-Page-(Community)?node-id=105%3A1653 - https://www.figma.com/proto/4rMnU4wmmxzOarth47RTFc/Prototyping-in-Figma?node-id=0%3A90&scaling=scale-down&page-id=0%3A1&starting-point-node-id=0%3A2
